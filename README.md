@@ -371,9 +371,3 @@ O workflow está configurado para utilizar API 35 no runner Ubuntu.
 O ambiente de desenvolvimento utilizado é Windows, sem disponibilidade de macOS e Xcode.
 
 Por esse motivo, a execução em simulador iOS não foi realizada. A validação atual está concentrada em Android.
-
-A cobertura iOS permanece como limitação, não sendo declarada como atendida.
-
-### BrowserStack
-
-A integração com BrowserStack não faz parte da implementação atual.
